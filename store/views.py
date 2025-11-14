@@ -51,4 +51,4 @@ def register(request):
 
     return render(request, 'store/signup.html', context)
 
-#soy gay
+# no soy gay
